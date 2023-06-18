@@ -252,8 +252,11 @@ footer {
 }
 
 audio {
-    position: absolute;
-    left: 20px;
-    bottom: 10px;
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    max-width: 300px;
+    margin-bottom: 20px;
   }
 
+ 
