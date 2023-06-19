@@ -17,14 +17,17 @@
 
 ## The "home" section
 * Here the user can read a little bit about the restaurant, they can also look at a table that provides the opening hours for each day of the week. 
+
 ![Home](assets/images/home.png)
 
 ## The "menu" section
 * A menu that lets the user choose between 5 different pizzas. While you read the menu you can play some light jazz in the audio-player provided above the menu-items. 
+
 ![Menu](assets/images/menu.png)
 
 ## The "feedback" section
 * A form that the user can fill in if they want to leave a message/feedback to the restaurant. It is required to fill in the form correctly before you can submit your answers. 
+
 ![Feedback](assets/images/feedback.png)
 
 ### Testing
@@ -35,6 +38,13 @@
 
 #### Bugs
 * When I deployed my project to Github Pages I noticed that the image wasn´t showing, and the audio wasn´t playable. This turned out to be caused by this incorrect file path: <source src="../lite-soft-jazz.mp3" type="audio/mpeg"> instead of <source src="lite-soft-jazz.mp3" type="audio/mpeg"> The image issue was resolved in the same way. 
+
+##### Validator testing
+* HTML - No errors were returned when passing through the official W3C validator.
+* CSS - No errors were returned when passing through the official (Jigsaw) validator.
+* Accessibility - I conformed that the color and fonts chosen are easy to read and accessible by running it through Lighthouse in devtools. 
+
+![Lighthouse](assets/images/lighthouse.png)
 
 
 
