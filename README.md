@@ -25,7 +25,7 @@
 
 ## The "feedback" section
 * A form that the user can fill in if they want to leave a message/feedback to the restaurant. It is required to fill in the form correctly before you can submit your answers. 
-(PICTURE OF FEEDBACK)
+![Feedback](assets/images/feedback.png)
 
 ### Testing
 * I have tested the site in Chrome, Firefox and Safari successfully. 
