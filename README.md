@@ -21,7 +21,7 @@
 
 ## The "menu" section
 * A menu that lets the user choose between 5 different pizzas. While you read the menu you can play some light jazz in the audio-player provided above the menu-items. 
-(PICTURE OF MENU)
+![Menu](assets/images/menu.png)
 
 ## The "feedback" section
 * A form that the user can fill in if they want to leave a message/feedback to the restaurant. It is required to fill in the form correctly before you can submit your answers. 
