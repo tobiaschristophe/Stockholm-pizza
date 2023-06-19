@@ -2,7 +2,7 @@
 
 * The Stockholm Pizza website is a landing site for people that really loves pizza. Users of this website will be able to see the opening hours, look at an online menu (with music if they want to), and fill in a feedback-form to help the restaurant with suggestions. 
 
-![](assets/images/amiresponsive.jpg)
+![Amiresponsive](assets/images/amiresponsive2.jpg)
 
 ## Features
 * Header - At the top of thepage you have a header that contains the restaurants name (that also works as a button to get you back to the index.html site). It becomes larger when hovered to make it works as a link. The font is easy to read and has a style that suits this cool and popular restaurant. 
