@@ -15,9 +15,9 @@
 
 ![Footer](assets/images/footer.png)
 
-## The "about us" section
+## The "home" section
 * Here the user can read a little bit about the restaurant, they can also look at a table that provides the opening hours for each day of the week. 
-(PICTURE OF ABOUT US)
+![Home](assets/images/home.png)
 
 ## The "menu" section
 * A menu that lets the user choose between 5 different pizzas. While you read the menu you can play some light jazz in the audio-player provided above the menu-items. 
