@@ -30,6 +30,12 @@
 ### Testing
 * I have tested the site in Chrome, Firefox and Safari successfully. 
 * The site works and looks good on all screens sizes. 
-* All the 
+* All the content is easy to understans and also clearly visible due to high contrast between text and background. 
+* I have tested the form, it only accepts an e-mail adress in the e-mail field and the sumbit button works. 
+
+#### Bugs
+* When I deployed my project to Github Pages I noticed that the image wasn´t showing, and the audio wasn´t playable. This turned out to be caused by this incorrect file path: <source src="../lite-soft-jazz.mp3" type="audio/mpeg"> instead of <source src="lite-soft-jazz.mp3" type="audio/mpeg"> The image issue was resolved in the same way. 
+
+
 
 
