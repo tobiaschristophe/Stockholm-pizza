@@ -46,6 +46,26 @@
 
 ![Lighthouse](assets/images/lighthouse.png)
 
+###### Deployment
+* The site was deployed to GitHub pages. The steps to deploy are as follows:
+  * In the GitHub repository, navigate to the settings tab.
+  * From the source section drop-down menu, select the Main Branch. 
+  * Once the Main Branch has been selected, the page provides the link to the completed website. 
 
+The live link can bee found here - [Stockholm Pizza](https://tobiaschristophe.github.io/Stockholm-pizza/index.html)
+
+###### Credits 
+###### Content
+* I have tried to not copy any code from the earlier projects, however I have relied quite a bit on the "I love running" project for inspiration. The only code that I copied are the following css-code: 
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    text-decoration: none;
+    color: black;
+} 
+
+###### Media
+* The image underneath the table is from unsplash.com
 
 
